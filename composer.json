@@ -1,7 +1,7 @@
 {
-    "name": "pingpong/admin",
-    "description": "Laravel Admin Package",
-    "keywords": ["pingpong", "admin", "laravel", "administrator"],
+    "name": "whatpunc/admin",
+    "description": "Laravel Admin Package (fork of pingpong/admin)",
+    "keywords": [],
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.4.0",
         "pingpong/testing": "1.*",
-        "pingpong/menus": "1.0.*",
+        "whatpunc/menus": "1.0.*",
         "pingpong/presenters": "1.0.*",
         "pingpong/trusty": "1.0.*",
         "pingpong/validator": "1.*",
